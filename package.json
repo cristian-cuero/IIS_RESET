@@ -1,0 +1,22 @@
+{
+  "name": "iis_reset",
+  "version": "1.0.0",
+  "description": "reinicar pool de aplicaciones",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-cuero/IIS_RESET.git"
+  },
+  "author": "Cristian Cuero Pisco Company TICS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristian-cuero/IIS_RESET/issues"
+  },
+  "homepage": "https://github.com/cristian-cuero/IIS_RESET#readme",
+  "dependencies": {
+    "dotenv": "^17.0.1"
+  }
+}
